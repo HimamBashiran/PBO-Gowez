@@ -16,6 +16,7 @@ GOWEZ (Go With Electric Zone) adalah sebuah platform digital berbasis web yang d
 - Apache Netbeans IDE 23
 
 ## Structure
+```
 📦classes
  ┣ 📂gowez
  ┃ ┣ 📜Cargo.class
@@ -47,6 +48,13 @@ GOWEZ (Go With Electric Zone) adalah sebuah platform digital berbasis web yang d
  ┣ 📜Transaksi.java
  ┗ 📜User.java
 📦test
+```
+
+## Overview Application
+![Image](https://github.com/user-attachments/assets/39f046fd-3b01-4936-bd28-ab23fab42134)
+
+## Class Diagram
+![Image](https://github.com/user-attachments/assets/00836180-4291-4246-943b-4f61f86ac499)
 
 ## Credit
 - Himam Bashiran (2311110055)
