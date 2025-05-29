@@ -54,7 +54,7 @@ GOWEZ (Go With Electric Zone) adalah sebuah platform digital berbasis web yang d
 ![Image](https://github.com/user-attachments/assets/39f046fd-3b01-4936-bd28-ab23fab42134)
 
 ## Class Diagram
-![Image](https://github.com/user-attachments/assets/00836180-4291-4246-943b-4f61f86ac499)
+![Image](https://github.com/user-attachments/assets/8441638f-8784-4903-a584-41699f66caba)
 
 ## Credit
 - Himam Bashiran (2311110055)
